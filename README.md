@@ -1,2 +1,2 @@
 # test
-test repository
+practice repository
